@@ -1,0 +1,5 @@
+C:\Users\HP\Documents\_MyGit\Delegates\Delegates.Callback\bin\Debug\Delegates.Callback.dll
+C:\Users\HP\Documents\_MyGit\Delegates\Delegates.Callback\bin\Debug\Delegates.Callback.pdb
+C:\Users\HP\Documents\_MyGit\Delegates\Delegates.Callback\obj\Debug\Delegates.Callback.csprojResolveAssemblyReference.cache
+C:\Users\HP\Documents\_MyGit\Delegates\Delegates.Callback\obj\Debug\Delegates.Callback.dll
+C:\Users\HP\Documents\_MyGit\Delegates\Delegates.Callback\obj\Debug\Delegates.Callback.pdb

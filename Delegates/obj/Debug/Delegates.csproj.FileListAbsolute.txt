@@ -1,0 +1,10 @@
+C:\Users\HP\Documents\_MyGit\Delegates\Delegates\bin\Debug\Delegates.exe.config
+C:\Users\HP\Documents\_MyGit\Delegates\Delegates\bin\Debug\Delegates.exe
+C:\Users\HP\Documents\_MyGit\Delegates\Delegates\bin\Debug\Delegates.pdb
+C:\Users\HP\Documents\_MyGit\Delegates\Delegates\bin\Debug\Delegates.Callback.dll
+C:\Users\HP\Documents\_MyGit\Delegates\Delegates\bin\Debug\Delegates.Callback.pdb
+C:\Users\HP\Documents\_MyGit\Delegates\Delegates\obj\Debug\Delegates.csprojResolveAssemblyReference.cache
+C:\Users\HP\Documents\_MyGit\Delegates\Delegates\obj\Debug\Delegates.exe
+C:\Users\HP\Documents\_MyGit\Delegates\Delegates\obj\Debug\Delegates.pdb
+C:\Users\HP\Documents\_MyGit\Delegates\Delegates\bin\Debug\Delegates.Reusability.dll
+C:\Users\HP\Documents\_MyGit\Delegates\Delegates\bin\Debug\Delegates.Reusability.pdb
